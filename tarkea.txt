@@ -1,3 +1,7 @@
+uusi rivi tiedoston alkuun
+
 rivi1
 rivi2
 rivi3
+
+uusi rivi branchissa toka
