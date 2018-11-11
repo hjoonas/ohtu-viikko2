@@ -5,3 +5,4 @@ rivi2
 rivi3
 
 uusi rivi branchissa toka
+rivi loppuun
